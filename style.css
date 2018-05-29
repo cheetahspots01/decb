@@ -1,0 +1,33 @@
+.par, body { 
+    font-family: 'Comfortaa';
+    cursive;
+    font-size: 40px;
+    background:#ccc;
+    color:#444;
+}
+.pi {
+  font-size: 9px;0
+}
+
+.head {
+	font-size: 100px;0
+}
+
+a:link {
+	font-size: 50px;0
+	color: #333;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #333;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #f33;
+}
+
+a:active {
+	color: #f00
+}
